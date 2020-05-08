@@ -542,8 +542,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
+#scrollToTop a {
+  border-radius: 100px;
 }
 .form-control {
   font-family: 'Rubik', sans-serif;
@@ -1876,52 +1876,65 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #f7ed4a !important;
 }
-.cid-rYlP4HPvYQ {
+.cid-rYmbeA7H24 {
   padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/1-1724x886.jpg");
 }
-.cid-rYlP4HPvYQ P {
+.cid-rYmbeA7H24 .mbr-section-text {
   color: #767676;
 }
-.cid-rYm35LIKYE {
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-rYmbeA7H24 .mbr-section-subtitle {
+  color: #767676;
 }
-.cid-rYm35LIKYE .nav-tabs {
+.cid-rYmbeA7H24 .tabcont {
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-rYmbeA7H24 .mbr-iconfont {
+  font-size: 48px;
+}
+.cid-rYmbeA7H24 .card-img {
+  margin-bottom: 1.5rem;
+}
+.cid-rYmbeA7H24 .tab-content-row {
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-rYmbeA7H24 .tab-content {
+  margin-top: 3rem;
+  width: 100%;
+}
+.cid-rYmbeA7H24 .nav-tabs {
   -webkit-justify-content: center;
   justify-content: center;
   -webkit-flex-wrap: wrap;
   flex-wrap: wrap;
   border-bottom: none;
 }
-.cid-rYm35LIKYE .nav-tabs .nav-link {
+.cid-rYmbeA7H24 .nav-tabs .nav-link {
   box-sizing: border-box;
-  color: #ffffff;
+  color: #767676;
   font-style: normal;
   font-weight: 500;
   border-radius: 3px;
-  border: 1px solid #ffffff;
   padding: 1rem 3rem;
   margin: 0.4rem .8rem !important;
-  transition: all .5s;
+  transition: color .3s;
+  border: 2px solid #767676;
 }
-.cid-rYm35LIKYE .nav-tabs .nav-link:hover {
-  background-color: #ff3366;
+.cid-rYmbeA7H24 .nav-tabs .nav-link:hover {
+  background: #149dcc;
 }
-.cid-rYm35LIKYE .nav-tabs .nav-link.active {
-  font-weight: 500;
+.cid-rYmbeA7H24 .nav-tabs .nav-link.active {
   color: #ffffff;
   font-style: normal;
-  border: none;
-  background: #ff3366;
+  border: 2px solid #149dcc;
+  background: #149dcc;
 }
-.cid-rYm35LIKYE .nav-tabs .nav-link.active:hover {
-  border: none;
+.cid-rYmbeA7H24 .nav-tabs .nav-link.active:hover {
+  border: 2px solid #149dcc;
 }
-.cid-rYm35LIKYE p {
-  color: #232323;
-}
-.cid-rYm35LIKYE .mbr-text {
-  text-align: center;
+.cid-rYmbeA7H24 H2 {
+  color: #ffffff;
 }
