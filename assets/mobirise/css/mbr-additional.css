@@ -1914,26 +1914,26 @@ section.lazy-placeholder:after {
 }
 .cid-rYmbeA7H24 .nav-tabs .nav-link {
   box-sizing: border-box;
-  color: #767676;
+  color: #f7ed4a;
   font-style: normal;
   font-weight: 500;
   border-radius: 3px;
   padding: 1rem 3rem;
   margin: 0.4rem .8rem !important;
   transition: color .3s;
-  border: 2px solid #767676;
+  border: 2px solid #f7ed4a;
 }
 .cid-rYmbeA7H24 .nav-tabs .nav-link:hover {
-  background: #149dcc;
+  background: #f7ed4a;
 }
 .cid-rYmbeA7H24 .nav-tabs .nav-link.active {
-  color: #ffffff;
+  color: #000000;
   font-style: normal;
-  border: 2px solid #149dcc;
-  background: #149dcc;
+  border: 2px solid #f7ed4a;
+  background: #f7ed4a;
 }
 .cid-rYmbeA7H24 .nav-tabs .nav-link.active:hover {
-  border: 2px solid #149dcc;
+  border: 2px solid #f7ed4a;
 }
 .cid-rYmbeA7H24 H2 {
   color: #ffffff;
